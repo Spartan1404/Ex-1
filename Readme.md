@@ -1,5 +1,5 @@
 # Ex#1
-Client-Server solution
+Client-Server solution.
 Requires python 3.6+
 
 ## Usage
@@ -10,7 +10,7 @@ Step 1: `python server.py`
 Step 2: `python client.py`
 * Start the client
 
-The server is configured by default to run on host=127.0.0.1 and port=3000 and the client is configured to connect to that address
+The server is configured by default to run on host=127.0.0.1 and port=3000 and the client is configured to connect to that address.
 The host and the port can be configured in both the client and the server as well as several parameters to alter the generated strings on the client
 
 ## Server usage
