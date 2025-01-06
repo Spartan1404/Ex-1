@@ -1,6 +1,6 @@
 # Ex#1
 Client-Server solution.
-Requires python 3.6+
+Requires python 3.10+
 
 ## Usage
 
